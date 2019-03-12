@@ -4,7 +4,7 @@
 
 ```
 npm install
-npm run  dev // 开发模式 8090端口
+npm run dev // 开发模式 8090端口
 npm run build // 构建
 ```
 
@@ -24,7 +24,7 @@ npm run build // 构建
 **4.模块化支持commonJS和ES6 module规范**
 
 
-**5.移动端调试支持eurda可视化调试（鸣谢作者，记得给作者点小星星 https://github.com/liriliri/eruda）**
+**5.移动端调试支持eurda可视化调试（鸣谢作者，记得给作者点小星星 https://github.com/liriliri/eruda ）**
 
 **6.art-template实现高效渲染,后缀art的文件为模板文件（如果有更高效的渲染方案欢迎提出）**
 
